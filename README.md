@@ -2,7 +2,7 @@
 Interactive Excel dashboard analyzing sales trends, customer behavior, and product performance from 2021–2024. Includes filters by state and year, top/bottom customer and product insights, quantity vs profit views, and monthly sales trends with dynamic charts.
 ## 📸 Dashboard Preview
 
-![Sales Dashboard]([files/dashboard-screenshot.png](https://github.com/sage9924/Sale-Performance-Customer-Behaviour/blob/main/sale%20performance.png))
+![Sales Dashboard]([sale performance.png))
 
 # 📊 Sales Performance & Customer Behavior Analysis
 
