@@ -6,7 +6,7 @@ Interactive Excel dashboard analyzing sales trends, customer behavior, and produ
 
 ![Sales Performance Dashboard](sale%20performance.png)
 
-![Sales Performance Dashboard](sale%20performance 2.png)
+![Sales Performance Dashboard](sale%20performance2.png)
 
 # 📊 Sales Performance & Customer Behavior Analysis
 
